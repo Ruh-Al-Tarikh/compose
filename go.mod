@@ -11,7 +11,7 @@ require (
 	github.com/compose-spec/compose-go/v2 v2.9.0
 	github.com/containerd/containerd/v2 v2.1.4
 	github.com/containerd/errdefs v1.0.0
-	github.com/containerd/platforms v1.0.0-rc.1
+	github.com/containerd/platforms v1.0.0-rc.2
 	github.com/davecgh/go-spew v1.1.1
 	github.com/distribution/reference v0.6.0
 	github.com/docker/buildx v0.29.1
